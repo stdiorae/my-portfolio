@@ -181,6 +181,8 @@ button { cursor: pointer; font-family: inherit; }
   font-weight: 700;
   color: var(--blue);
   letter-spacing: -0.02em;
+   display: flex;
+   align-items: center;
 }
 .logo-bracket { color: var(--blue-mid); opacity: 0.6; }
 
